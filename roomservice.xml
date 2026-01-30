@@ -3,44 +3,10 @@
 
   <!-- Device -->
   <project
-      name="JNWSG/Lineage_android_device_motorola_fogos"
-      path="device/motorola/fogos"
-      remote="github"
-      revision="lineage-21" />
+    name="nakchwal/Lineage_android_device_motorola_fogos"
+    path="device/motorola/fogos"
+    remote="github"
+    revision="16" />
 
-  <!-- Device common -->
-  <project
-      name="JNWSG/Lineage_android_device_motorola_sm6375-common"
-      path="device/motorola/sm6375-common"
-      remote="github"
-      revision="lineage-21" />
-
-  <!-- Kernel -->
-  <project
-      name="JNWSG/Lineage_android_kernel_motorola_sm6375"
-      path="kernel/motorola/sm6375"
-      remote="github"
-      revision="lineage-21" />
-
-  <!-- Vendor -->
-  <project
-      name="JNWSG/Lineage_proprietary_vendor_motorola_fogos"
-      path="vendor/motorola/fogos"
-      remote="github"
-      revision="lineage-21" />
-
-  <!-- Vendor common -->
-  <project
-      name="JNWSG/Lineage_proprietary_vendor_motorola_sm6375-common"
-      path="vendor/motorola/sm6375-common"
-      remote="github"
-      revision="lineage-21" />
-
-  <!-- Motorola hardware -->
-  <project
-      name="JNWSG/Lineage_android_hardware_motorola"
-      path="hardware/motorola"
-      remote="github"
-      revision="lineage-21" />
 
 </manifest>
